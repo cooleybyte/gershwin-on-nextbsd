@@ -42,3 +42,7 @@ xlibre-xf86-video-vesa
 # this the X server logs "AIGLX error: dlopen of .../swrast_dri.so failed" and
 # "GLX: no usable GL providers", leaving the desktop with no working OpenGL.
 mesa-dri
+
+# networkmgr - to actually allow for networking to take place and not just guess on how to set
+# NOTE - IF THIS DOES NOT WORK AS INTENDED I AM WORKING ON THIS MYSELF IN MY FREE TIME I HAVE. MAY TAKE A WHILE TO GET TO
+networkmgr
